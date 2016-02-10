@@ -1,0 +1,15 @@
+gravelpit:
+  metadata:
+    rock:
+      belongs: in_gravelpits
+      value: world
+    example2:
+      foo: bar
+
+dumptruck:
+  metadata:
+    sand:
+      belongs: in_dumptrucks
+      value: world
+    example2:
+      foo: bar
