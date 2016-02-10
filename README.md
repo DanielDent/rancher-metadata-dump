@@ -1,6 +1,6 @@
 # Rancher Metadata Dumper
 
-This utility dumps the contents of the user provided data from [Rancher's metadata service] into a file.
+This utility dumps the contents of the user provided data from [Rancher's metadata service](http://docs.rancher.com/rancher/metadata-service/#adding-user-metadata-to-a-service) into a file.
 
 ## License
 
